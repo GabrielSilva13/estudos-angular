@@ -1,0 +1,18 @@
+[
+  {
+    "wishLabel": "Aprender Angular",
+    "isComplete": false
+  },
+  {
+    "wishLabel": "Almoçar",
+    "isComplete": true
+  },
+  {
+    "wishLabel": "Beber um cafezinho",
+    "isComplete": false
+  },
+  {
+    "wishLabel": "Lanchar",
+    "isComplete": false
+  }
+]
